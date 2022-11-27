@@ -1,5 +1,5 @@
-# QUEM SOU EU?
-- :sparkles:eu me chamo,Maria Clara
+ 🤔 QUEM SOU EU?
+- :sparkles:eu me chamo, Maria Clara
 - :ledger:eu sou estudante
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
