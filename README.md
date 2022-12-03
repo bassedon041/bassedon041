@@ -2,7 +2,7 @@
 - :sparkles:eu me chamo, Maria Clara
 - :ledger:eu sou estudante
 - :house:moro em Pontal Do Paraná
-- 
+-
 - 
 
 <!---
