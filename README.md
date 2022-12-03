@@ -1,9 +1,9 @@
- 🤔 QUEM SOU EU?
+ # 🤔 QUEM SOU EU?
 - :sparkles:eu me chamo, Maria Clara
 - :ledger:eu sou estudante
+- :house:moro em Pontal Do Paraná
 - 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
 
 <!---
 bassedon041/bassedon041 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
